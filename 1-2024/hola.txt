@@ -1,0 +1,25 @@
+Una secuencia de operaciones realizadas como una sola unidad logica de trabajo se denomina transaccion.
+Si dos transacciones unicamente leen un determinado elemento de datos, no entran en conflicto entre sí y el orden de las operaciones no es importante. F
+Cuando un Trigger es ejecutado desde un Procedimiento Almacenado es mas rapido que cuando se ejecuta automáticamente. F
+Cuando se ejecuta la instruccion ... en una tabla que tiene asociados un TRIGGER el SGBD guarda los datos anteriores de la fila afectada en una la tabla denominada ... y además guarda los nuevos datos modificados de la fila afectada en una tabla denominada ...
+La sub consulta (consulta interna) obtiene un valor que es usado por la sentencia padre. V
+La Reunion con Predicado en el Algebra Relacional, combina en una sola operación la selección y el producto cartesiano. V
+El SQL es un lenguaje de Consulta que es utilizado por los SGBD clasificado según el modelo de datos como relacional.
+Una sub consulta en una sentencia SELECT que es incrustada en una cláusula de otra sentencia SQL, llamada sentencia. V
+La cláusula EXISTS es usado en sub consultas correlacionadas para verificar cuando un valor recuperado por la consulta interna existe en el conjunto de resultados obtenidos por la consulta externa. V
+La cláusula having especifica una condición de búsqueda para grupos.
+Dadas las instancias de las relaciones T y R, después de aplicar una Expresión Algebraica el resultado es nuevo relacion. 
+Las columnas que se indican en la cláusula GROUP BY se las denominan columnas de agrupación de la consulta, ya que ellas determinan como se dividen las filas en grupo. V
+La sub consulta interna se ejecuta antes que la consulta principal. V
+Una referencia externa es un nombre de columna que estando en la sub consulta, no se refiere a ninguna columna de las tablas designadas en la cláusula FROM de la sub consulta sino a una columna de las tablas designadas en la cláusula FROM de la consulta principal. V
+En la Reunión Natural el predicado está implícito y toma en cuenta a las parejas de tuplas que tenga el mismo valor en al menos un atributo en común entre ambas tablas.
+La cláusula EXISTS es usado en sub consultas correlacionadas para verificar cuando un valor recuperado por la consulta interna existe en el conjunto de resultados obtenidos por la consulta externa. F
+Las Funciones en Transact SQL pueden o no recibir parametros, sin embargo, es obligatorio que un valor escalares o una tabla. v
+Desde una funcion es posible crear una Tabla. F
+Cual o cuales de las siguientes instrucciones se pueden ejecutar dentro de un Procedimiento Almacenado?(Ninguna de las anteriores(Es la correcta), create view, use database, create trigger, create default)
+encuentra el valor mayor de una columna MAX()
+encuentra el valor mas pequeño de una columna MIN()
+cuenta el numero de valores de una columna COUNT()
+cuenta las filas de resultados de la consulta COUNT(*)
+calcula el valor promedio de una columna AVG()
+calcula el total de una columna SUM()
